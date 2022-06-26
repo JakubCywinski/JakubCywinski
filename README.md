@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@jakub_cywinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jakub_cywinski" height="30" width="40" /></a>
-<a href="https://twitter.com/@jakub54290446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jakub54290446" height="30" width="40" /></a>
+<a href="https://twitter.com/Jakub54290446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jakub54290446" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jakub cywiński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub cywiński" height="30" width="40" /></a>
 <a href="https://instagram.com/jakub_webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakub_webdeveloper" height="30" width="40" /></a>
 <a href="https://discord.gg/CywinskiWeb#1228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CywinskiWeb#1228" height="30" width="40" /></a>
