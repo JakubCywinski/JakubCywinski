@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubcywinski&label=Profile%20views&color=980eb4&style=flat" alt="jakubcywinski" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@jakub54290446" target="blank"><img src="https://img.shields.io/twitter/follow/@jakub54290446?logo=twitter&style=for-the-badge" alt="@jakub54290446" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Jakub54290446" target="blank"><img src="https://img.shields.io/twitter/follow/@jakub54290446?logo=twitter&style=for-the-badge" alt="@jakub54290446" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
