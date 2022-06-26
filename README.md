@@ -1,6 +1,6 @@
 <!-- ### Welcome to a piece of my world. You'll learn a lot about me and my projects. 👋 -->
 
-# 💫 About Me:
+# 😶‍🌫️ Some about me:
 😜 #Welcome << I am Jakub, nice to see you<br>🔭 #Current goal << Finish portfolio 2022<br>🌱 #Currently learning << Electron<br>💬 #Questions? << jakubwebdev@gmail.com<br>⚡ #Fun fact << I started programming when I was 8 years old
 
 
